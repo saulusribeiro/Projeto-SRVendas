@@ -1,10 +1,10 @@
 export type SaleSum =  {
-    name: string,
-    sum: number
+    name: string;
+    sum: number;
 }
 
 export type SaleSuccess =  {
-    name : string,
-    visited: number,
-    deals : number
+    name : string;
+    visited: number;
+    deals : number;
 }
